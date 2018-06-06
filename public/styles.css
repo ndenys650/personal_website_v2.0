@@ -1,0 +1,55 @@
+/* Universal tags */
+
+body {
+  background-color: white;
+  padding-bottom: 50px; 
+}
+
+h2, a, .h2 {
+  font-family: 'Spectral', serif!important;
+}
+
+/* Bootstrap-Vue classes */
+
+.page-link {
+  color: #FF5722;
+}
+
+.page-item.active .page-link {
+  background-color: #FF5722;
+  border-color: #FF5722;
+}
+
+.img-thumbnail {
+  height: 190px;
+}
+
+.card-title {
+  color: #FF5722;
+}
+
+.card-img {
+  opacity: .3;
+}
+
+.navbar-brand {
+  font-family: 'Great Vibes', cursive!important;
+  font-size: 30px!important;
+}
+
+/* Custom Classes */
+
+.custom-bg {
+  background-color: #FF5722!important;
+}
+
+.resume {
+  color: white;
+  text-decoration: none;
+}
+
+.resume:hover {
+  color: white;
+  text-decoration: none;
+  
+}
